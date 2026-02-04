@@ -9,7 +9,7 @@
 
 ### 快速部署
 1. 下载脚本：
-   `wget https://raw.githubusercontent.com/你的用户名/你的仓库名/main/server_guardian.py`
+   `wget https://raw.githubusercontent.com/qqncnc/VPS-Traffic-Guardian/main/server_guardian.py`
 2. 修改配置：
    使用 `vi server_guardian.py` 修改脚本顶部的参数（如限速值、流量上限等）。
 3. 运行环境：
